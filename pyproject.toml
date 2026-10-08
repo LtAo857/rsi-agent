@@ -1,0 +1,6 @@
+[project]
+name = "rsi-demo"
+version = "0.1.0"
+description = "Mini Darwin Gödel Machine: a coding agent that rewrites itself"
+requires-python = ">=3.11"
+dependencies = ["openai>=1.40"]
